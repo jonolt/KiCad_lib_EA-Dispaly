@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name EA_Display)(type Legacy)(uri ${KIPRJMOD}/EA_Display.lib)(options "")(descr ""))
+)

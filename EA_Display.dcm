@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EA_DOGM081_DOGM162_DOGM163
+D Text LCD display (1x8/2x16/3x16  character) with pins (2.54mm). Dimension 55x31x2mm. Controller ST7036.
+K LCD display text integrated controller
+F https://www.lcd-module.com/fileadmin/eng/pdf/doma/dog-me.pdf
+$ENDCMP
+#
+$CMP EA_DOGM128_EA_DOGL128
+D Graphic LCD display (128x64 dots) with pins (2.54mm). Dimension 55x46x2mm/68x51x2mm. Controller ST7565R.
+K LCD display graphic integrated controller
+F http://www.lcd-module.de//deu/pdf/grafik/dogm128.pdf
+$ENDCMP
+#
+$CMP EA_DOGM132
+D Graphic LCD display (128x64 dots) with pins (2.54mm). Dimension 55x31x2mm. Controller ST7565R.
+K LCD display graphic integrated controller
+F http://www.lcd-module.de//deu/pdf/grafik/dogm132-5.pdf
+$ENDCMP
+#
+$CMP EA_DOGM204
+D Text LCD display (4x20  cahracter) with pins (2.54mm). Dimension 66x40.2x2mm. Controller SSD1803A.
+K LCD display text integrated controller
+F https://www.lcd-module.com/fileadmin/eng/pdf/doma/dogm204e.pdf
+$ENDCMP
+#
+$CMP EA_DOGM240_EA_DOGXL240
+D Graphic LCD display (240x64/240x128 dots) with pins (2.54mm). Dimension 94x40.2x2mm/94x66.9x2mm. Controller UC1611s.
+K LCD display graphic integrated controller
+F http://www.lcd-module.de/fileadmin/pdf/grafik/dogm240-6.pdf
+$ENDCMP
+#
+$CMP EA_DOGS102
+D Graphic LCD display (102x64 dots) with pins (2.54mm). Dimension 41x39x2mm. Controller UC1701.
+K LCD display graphic integrated controller
+F http://www.lcd-module.de//deu/pdf/grafik/dogs102-6.pdf
+$ENDCMP
+#
+$CMP EA_DOGS104_DOGS164
+D Text LCD display (4x16/4x10  character) with pins (2.54mm). Dimension 40x33x2mm/36x27.5x2mm. ControllerSSD1803A.
+K LCD display text integrated controller
+F https://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf
+$ENDCMP
+#
+$CMP EA_DOGXL160
+D Graphic LCD display (160x104 dots) with pins (2.54mm). Dimension 78x64x2mm. Controller UC1610.
+K LCD display graphic integrated controller
+F http://www.lcd-module.de//deu/pdf/grafik/dogxl160-7.pdf
+$ENDCMP
+#
+$CMP EA_OLEDL128
+D Graphic OLED display (128x64 dots) with pins (2.54mm). Dimension 68x51x3.3mm.  Controller SSD1309.
+K OLED display graphic integrated controller
+F https://www.lcd-module.com/fileadmin/html-seiten/eng/pdf/grafik/oledl128-6e.pdf
+$ENDCMP
+#
+$CMP EA_OLEDM128
+D Graphic OLED display (128X64 dots) with pins (2.54mm). Dimension 55x46x3.3mm. Controller SSD1306.
+K OLED display graphic integrated controller
+F https://www.lcd-module.com/fileadmin/eng/pdf/grafik/oledm128-6e.pdf
+$ENDCMP
+#
+$CMP EA_OLEDM204
+D Text OLED display (4x20  character) with pins (2.54mm). Dimension 61x26x3.3mm. Controller SSD1311.
+K OLED display graphic integrated controller
+F https://www.lcd-module.com/fileadmin/eng/pdf/doma/oledm204-ae.pdf
+$ENDCMP
+#
+$CMP EA_OLEDS102
+D Graphic OLED display (102x64 dots) with pins (2.54mm). Dimension 39x41x3.3mm. Controller SSD1306B.
+K OLED display graphic integrated controller
+F https://www.lcd-module.com/fileadmin/eng/pdf/grafik/oleds102-6e.pdf
+$ENDCMP
+#
+#End Doc Library
