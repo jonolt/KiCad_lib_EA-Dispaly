@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name EA_Display)(type KiCad)(uri ${KIPRJMOD}/EA_Display.pretty)(options "")(descr ""))
+)
