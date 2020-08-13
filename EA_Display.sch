@@ -146,9 +146,50 @@ F 3 "https://www.lcd-module.com/fileadmin/eng/pdf/grafik/oledm128-6e.pdf" H 2800
 	1    0    0    -1  
 $EndComp
 Wire Notes Line width 20 style solid
-	750  2850 8350 2850
+	750  2850 10900 2850
 Text Notes 850  3100 0    197  ~ 0
 OLED\nLCD
-Text Notes 7000 5900 0    118  ~ 0
-Different Types will be splited in single \nsymbols when final design is made. \nAlso when design is finished backlit \nversion will be added ussing the no \nhidden NC pins. Fotprints and 3D Models\nwill be scripted (soon).\n\n- Reference Name OLED?\n- LED as symbol additional unit?\n\nPlanned to be sumbmitted to KiCad.\n\nLicense:\nCC-BY-SA\n
+$Comp
+L EA_Display:EA_DOGM162_with_LED LCD?
+U 1 1 5F360E08
+P 8150 4500
+F 0 "LCD?" H 8150 3311 50  0000 C CNN
+F 1 "EA_DOGM162_with_LED" H 8150 3220 50  0000 C CNN
+F 2 "" H 8150 4500 50  0001 C CNN
+F 3 "https://www.lcd-module.com/fileadmin/eng/pdf/doma/dog-me.pdf" H 8150 4500 50  0001 C CNN
+	1    8150 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L EA_Display:EA_DOGM163_with_LED LCD?
+U 1 1 5F361E76
+P 9950 4500
+F 0 "LCD?" H 9950 3611 50  0000 C CNN
+F 1 "EA_DOGM163_with_LED" H 9950 3520 50  0000 C CNN
+F 2 "" H 9950 4500 50  0001 C CNN
+F 3 "https://www.lcd-module.com/fileadmin/eng/pdf/doma/dog-me.pdf" H 9950 4500 50  0001 C CNN
+	1    9950 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L EA_Display:EA_DOGM163_with_LED LCD?
+U 2 1 5F362D33
+P 9950 6050
+F 0 "LCD?" H 9950 6365 50  0000 C CNN
+F 1 "EA_DOGM163_with_LED" H 9950 6274 50  0000 C CNN
+F 2 "" H 9950 6050 50  0001 C CNN
+F 3 "https://www.lcd-module.com/fileadmin/eng/pdf/doma/dog-me.pdf" H 9950 6050 50  0001 C CNN
+	2    9950 6050
+	1    0    0    -1  
+$EndComp
+Text Notes 7550 3450 0    98   ~ 0
+LED in same Unit
+Text Notes 9300 3450 0    98   ~ 0
+LED in extra Unit
+Wire Notes Line
+	7000 3000 7000 6200
+Text Notes 8200 6950 0    118  ~ 0
+See README.md
+Text Notes 5450 3250 0    98   ~ 0
+without LED
 $EndSCHEMATC

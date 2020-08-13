@@ -18,6 +18,18 @@ K LCD display graphic integrated controller
 F http://www.lcd-module.de//deu/pdf/grafik/dogm132-5.pdf
 $ENDCMP
 #
+$CMP EA_DOGM162_with_LED
+D Text LCD display (1x8/2x16/3x16  character) with pins (2.54mm). Dimension 55x31x2mm. Controller ST7036.
+K LCD display text integrated controller
+F https://www.lcd-module.com/fileadmin/eng/pdf/doma/dog-me.pdf
+$ENDCMP
+#
+$CMP EA_DOGM163_with_LED
+D Text LCD display (1x8/2x16/3x16  character) with pins (2.54mm). Dimension 55x31x2mm. Controller ST7036.
+K LCD display text integrated controller
+F https://www.lcd-module.com/fileadmin/eng/pdf/doma/dog-me.pdf
+$ENDCMP
+#
 $CMP EA_DOGM204
 D Text LCD display (4x20  cahracter) with pins (2.54mm). Dimension 66x40.2x2mm. Controller SSD1803A.
 K LCD display text integrated controller
